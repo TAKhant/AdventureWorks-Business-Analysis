@@ -15,15 +15,15 @@ The project covers data validation, data-quality checks, relationship validation
 
 ### Page 1 — Executive Overview
 
-![Executive Overview](images/overview.png)
+![Executive Overview](images/page1.png)
 
 ### Page 2 — Product & Profitability
 
-![Product & Profitability](images/Product_Profitability.png)
+![Product & Profitability](images/page2.png)
 
 ### Page 3 — Customer, Channel & Territory
 
-![Customer, Channel & Territory](images/_customer_territory.png)
+![Customer, Channel & Territory](images/page3.png)
 
 ## Business Problem
 
